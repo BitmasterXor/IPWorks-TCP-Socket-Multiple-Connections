@@ -33,7 +33,7 @@
 <h2>Dependencies</h2>
 <ul>
   <li><code>Delphi RAD Studio:</code> Required for compiling and running the project.</li>
-  <li><code>IPWorks:</code> Includes the <code>TipwTCPServer</code> component for TCP functionality.</li>
+  <li><code>IPWorks:</code> Includes the <code>TipwTCPServer</code> component for TCP functionality. You can find it in this zip file: TipwTCPServer Library.7z</li>
 </ul>
 
 <h2>License</h2>
